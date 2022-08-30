@@ -80,7 +80,7 @@ buijs create demo -t case-163
 - AppCan
 - ...
 
-?> 可以下载 BUI 安卓体验包，用不同平台打包以后的效果. <a href="http://www.easybui.com/downloads/" target="_target">进入下载中心</a>
+> 可以下载 BUI 安卓体验包，用不同平台打包以后的效果. <a href="http://www.easybui.com/downloads/" target="_target">进入下载中心</a>
 
 #### 谁在使用
 
@@ -88,7 +88,7 @@ buijs create demo -t case-163
 
 ### 案例效果
 
-?> 基于 BUI 制作的`高保真还原`App 交互效果
+> 基于 BUI 制作的`高保真还原`App 交互效果
 
 | <img src="https://easybui.com/guide/static/images/case/163_low.gif" alt="" width="240px"> | <img src="https://easybui.com/guide/static/images/case/qq_low.gif" alt="" width="240px"> | <img src="https://easybui.com/guide/static/images/case/weixin_low.gif" alt="" width="240px"> |
 | :-------------------------------------------------------------: | :------------------------------------------------------------: | :----------------------------------------------------------------: |
